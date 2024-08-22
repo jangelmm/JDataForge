@@ -216,6 +216,10 @@ public class TestForgeAVLTree {
 }
 ```
 
+## Otros enlaces
+
+Si quieres la versión con Maven puedes visitar: https://github.com/jangelmm/DataForge.git
+
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
