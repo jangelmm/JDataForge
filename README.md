@@ -29,6 +29,12 @@ JDataForge es una librería de Java que proporciona una variedad de estructuras 
 
 ## Instalación
 
+### Obtener `.jar`
+Puedes descargar el archivo `JDataForge.jar`y agregarlo directamente en tus proyectos.
+
+Si genera error al usarlo, te recomiendo compilarlo.
+
+### Compilar
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tu_usuario/JDataForge.git
